@@ -1,14 +1,14 @@
-# 🌱 Gotita de Agua
+# 🌱 Agricultura Inteligente
 
 **IoT-based Smart Irrigation System — UTEQ Winner 🏆**
 
-Gotita de Agua is an automated irrigation system developed as an IoT project at **Universidad Tecnológica de Querétaro (UTEQ)**.
+Agricultura Inteligente is an automated irrigation system developed as an IoT project at **Universidad Tecnológica de Querétaro (UTEQ)**.
 
 The system monitors soil moisture using a sensor connected to an **ESP32** and automatically controls a water pump through a relay. Sensor readings and irrigation status are synchronized with **Firebase Realtime Database**, while an OLED display provides real-time information directly on the device.
 
 ## 🎥 Demo
 
-[![Gotita de Agua — Smart Irrigation System](https://www.youtube.com/watch?v=Qu7RhS2lDTw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Qu7RhS2lDTw)
+[![Agricultura Inteligente — Smart Irrigation System](https://www.youtube.com/watch?v=Qu7RhS2lDTw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Qu7RhS2lDTw)
 
 **Watch the complete demonstration on YouTube.**
 
@@ -133,7 +133,7 @@ The project uses:
 
 ## 🏆 Project Recognition
 
-**Gotita de Agua** was developed as an academic IoT project at:
+**Agricultura Inteligente** was developed as an academic IoT project at:
 
 **Universidad Tecnológica de Querétaro (UTEQ)**
 
